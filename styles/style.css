@@ -27,7 +27,7 @@ body {
 
 .header-details {
     color: rgba(39, 39, 39, 0.60);
-    font-size: 18px;
+    font-size: 26px;
     line-height: 25px;
     margin-bottom: 32px;
 }
@@ -103,7 +103,7 @@ body {
 .img-cap {
     text-decoration: underline;
     text-align: center;
-    font-size: 18px;
+    font-size: 22px;
     margin-top: 30px;
 }
 
